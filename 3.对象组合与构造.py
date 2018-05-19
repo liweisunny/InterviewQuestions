@@ -53,6 +53,7 @@ oChild6.append(oChild10)
 oRoot.print_all_1()
 
 # 执行结果：
+
     # <Node 'root'>
     # <Node 'child1'>
     # <Node 'child4'>
@@ -66,6 +67,7 @@ oRoot.print_all_1()
     # <Node 'child9'>
 
 oRoot.print_all_2()
+
 # 执行结果：
     # <Node 'root'>
     # <Node 'child1'>
@@ -81,10 +83,10 @@ oRoot.print_all_2()
 
 # 说明：
 
-    # 对象的精髓就在于组合（composition）与对象构造（object construction）。对象需要有组合成分构成，而且得以某种方式初始化。这里也涉及到递归和生成器（generator）的使用。
+# 对象的精髓就在于组合（composition）与对象构造（object construction）。对象需要有组合成分构成，而且得以某种方式初始化。这里也涉及到递归和生成器（generator）的使用。
 
-    # 生成器是很棒的数据类型。你可以只通过构造一个很长的列表，然后打印列表的内容，就可以取得与print_all_2类似的功能。生成器还有一个好处，就是不用占据很多内存。
+# 生成器是很棒的数据类型。你可以只通过构造一个很长的列表，然后打印列表的内容，就可以取得与print_all_2类似的功能。生成器还有一个好处，就是不用占据很多内存。
 
-    # 有一点还值得指出，就是print_all_1会以深度优先（depth-first）的方式遍历树(tree),而print_all_2则是宽度优先（width-first）。
+# 有一点还值得指出，就是print_all_1会以深度优先（depth-first）的方式遍历树(tree),而print_all_2则是宽度优先（width-first）。
 
-    # 有时候，一种遍历方式比另一种更合适。但这要看你的应用的具体情况
+# 有时候，一种遍历方式比另一种更合适。但这要看你的应用的具体情况
