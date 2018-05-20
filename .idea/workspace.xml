@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce4438b4-4e6f-42e7-9723-fb94a61de5cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/10.链表操作.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5.排序算法/test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6.算法.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/9.数组操作.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3.对象组合与构造.py" afterPath="$PROJECT_DIR$/3.对象组合与构造.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/4.单列模式.py" afterPath="$PROJECT_DIR$/4.单列模式.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5.排序算法/test.py" afterPath="$PROJECT_DIR$/5.排序算法/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5.排序算法/排序算法.py" afterPath="$PROJECT_DIR$/5.排序算法/排序算法.py" />
     </list>
     <ignored path="InterviewQuestions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +19,7 @@
     <SUITE FILE_PATH="coverage/InterviewQuestions$2_super__.coverage" NAME="2.继承和super()函数 Coverage Results" MODIFIED="1519371224094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterviewQuestions$6_.coverage" NAME="6.算法 Coverage Results" MODIFIED="1526697760056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterviewQuestions$7_.coverage" NAME="7.排序算法 Coverage Results" MODIFIED="1520473900933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/InterviewQuestions$test.coverage" NAME="test Coverage Results" MODIFIED="1526722593524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.排序算法" />
+    <SUITE FILE_PATH="coverage/InterviewQuestions$test.coverage" NAME="test Coverage Results" MODIFIED="1526800493712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.排序算法" />
     <SUITE FILE_PATH="coverage/InterviewQuestions$4_.coverage" NAME="4.单列模式 Coverage Results" MODIFIED="1519952906402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterviewQuestions$1_.coverage" NAME="1.可变类型做参数 Coverage Results" MODIFIED="1519368156494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterviewQuestions$dayOfYear.coverage" NAME="dayOfYear Coverage Results" MODIFIED="1521708814712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -44,73 +38,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="6.算法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6.算法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.对象组合与构造.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.对象组合与构造.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1.可变类型做参数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.可变类型做参数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.继承和super()函数.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.继承和super()函数.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="102" column="7" selection-start-line="102" selection-start-column="7" selection-end-line="102" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.单列模式.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.单列模式.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="774">
-              <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.链表操作.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10.链表操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/5.排序算法/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+            <state relative-caret-position="298">
+              <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
               <folding>
+                <element signature="e#450#742#0" expanded="false" />
+                <element signature="e#771#1066#0" expanded="false" />
                 <element signature="e#1443#1738#0" expanded="false" />
+                <element signature="e#2105#2363#0" expanded="false" />
+                <element signature="e#2829#3109#0" expanded="false" />
+                <element signature="e#3152#3597#0" expanded="false" />
+                <marker date="1526800503945" expanded="false" signature="57:421" ph="..." />
+                <marker date="1526800503945" expanded="false" signature="1173:1393" ph="..." />
+                <marker date="1526800503945" expanded="false" signature="1771:2075" ph="..." />
+                <marker date="1526800503945" expanded="false" signature="2386:2802" ph="..." />
               </folding>
             </state>
           </provider>
@@ -119,17 +62,25 @@
       <file leaf-file-name="排序算法.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5.排序算法/排序算法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+            <state relative-caret-position="340">
+              <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding>
-                <element signature="e#140#412#0" expanded="false" />
-                <element signature="e#446#715#0" expanded="false" />
-                <element signature="e#751#1090#0" expanded="false" />
-                <element signature="e#2162#2377#0" expanded="false" />
-                <element signature="e#2432#2886#0" expanded="false" />
-                <element signature="e#2914#3027#0" expanded="false" />
-                <element signature="e#3073#3308#0" expanded="false" />
-                <element signature="e#3337#3542#0" expanded="false" />
+                <element signature="e#141#436#0" expanded="false" />
+                <element signature="e#466#748#0" expanded="false" />
+                <element signature="e#791#1236#0" expanded="false" />
+                <element signature="e#1273#1542#0" expanded="false" />
+                <element signature="e#1574#1613#0" expanded="false" />
+                <element signature="e#1659#1878#0" expanded="false" />
+                <element signature="e#1928#2225#0" expanded="false" />
+                <element signature="e#2263#2562#0" expanded="false" />
+                <element signature="e#2598#2854#0" expanded="false" />
+                <element signature="e#2886#3308#0" expanded="false" />
+                <element signature="e#3369#3584#0" expanded="false" />
+                <element signature="e#3639#4093#0" expanded="false" />
+                <element signature="e#4121#4234#0" expanded="false" />
+                <element signature="e#4280#4515#0" expanded="false" />
+                <element signature="e#4544#4749#0" expanded="false" />
+                <element signature="e#4791#4924#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -164,8 +115,8 @@
         <option value="$PROJECT_DIR$/4.单列模式.py" />
         <option value="$PROJECT_DIR$/7.排序算法.py" />
         <option value="$PROJECT_DIR$/6.算法.py" />
-        <option value="$PROJECT_DIR$/5.排序算法/test.py" />
         <option value="$PROJECT_DIR$/5.排序算法/排序算法.py" />
+        <option value="$PROJECT_DIR$/5.排序算法/test.py" />
       </list>
     </option>
   </component>
@@ -605,11 +556,11 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19088937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18980478" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39479393" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18655097" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -634,21 +585,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/5.排序算法/排序算法.py</url>
-          <line>80</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5.排序算法/排序算法.py</url>
-          <line>25</line>
+          <line>66</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/5.排序算法/排序算法.py</url>
-          <line>63</line>
-          <option name="timeStamp" value="50" />
+          <url>file://$PROJECT_DIR$/5.排序算法/test.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/5.排序算法/test.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="54" />
+      <option name="time" value="59" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1005,27 +956,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5.排序算法/排序算法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="81" column="20" selection-start-line="81" selection-start-column="20" selection-end-line="81" selection-end-column="20" />
+        <state relative-caret-position="340">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
-            <element signature="e#140#412#0" expanded="false" />
-            <element signature="e#446#715#0" expanded="false" />
-            <element signature="e#751#1090#0" expanded="false" />
-            <element signature="e#2162#2377#0" expanded="false" />
-            <element signature="e#2432#2886#0" expanded="false" />
-            <element signature="e#2914#3027#0" expanded="false" />
-            <element signature="e#3073#3308#0" expanded="false" />
-            <element signature="e#3337#3542#0" expanded="false" />
+            <element signature="e#141#436#0" expanded="false" />
+            <element signature="e#466#748#0" expanded="false" />
+            <element signature="e#791#1236#0" expanded="false" />
+            <element signature="e#1273#1542#0" expanded="false" />
+            <element signature="e#1574#1613#0" expanded="false" />
+            <element signature="e#1659#1878#0" expanded="false" />
+            <element signature="e#1928#2225#0" expanded="false" />
+            <element signature="e#2263#2562#0" expanded="false" />
+            <element signature="e#2598#2854#0" expanded="false" />
+            <element signature="e#2886#3308#0" expanded="false" />
+            <element signature="e#3369#3584#0" expanded="false" />
+            <element signature="e#3639#4093#0" expanded="false" />
+            <element signature="e#4121#4234#0" expanded="false" />
+            <element signature="e#4280#4515#0" expanded="false" />
+            <element signature="e#4544#4749#0" expanded="false" />
+            <element signature="e#4791#4924#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5.排序算法/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
+        <state relative-caret-position="298">
+          <caret line="99" column="14" selection-start-line="99" selection-start-column="14" selection-end-line="99" selection-end-column="14" />
           <folding>
+            <element signature="e#450#742#0" expanded="false" />
+            <element signature="e#771#1066#0" expanded="false" />
             <element signature="e#1443#1738#0" expanded="false" />
+            <element signature="e#2105#2363#0" expanded="false" />
+            <element signature="e#2829#3109#0" expanded="false" />
+            <element signature="e#3152#3597#0" expanded="false" />
+            <marker date="1526800503945" expanded="false" signature="57:421" ph="..." />
+            <marker date="1526800503945" expanded="false" signature="1173:1393" ph="..." />
+            <marker date="1526800503945" expanded="false" signature="1771:2075" ph="..." />
+            <marker date="1526800503945" expanded="false" signature="2386:2802" ph="..." />
           </folding>
         </state>
       </provider>
